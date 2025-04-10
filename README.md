@@ -5,6 +5,7 @@ Linux commands-Shell scripting
 
 # AIM:
 To practice Linux Commands and Shell Scripting
+![output1_14](https://github.com/user-attachments/assets/1f90c972-c7dd-4d04-975f-a10a07dc39f9)
 
 # DESIGN STEPS:
 

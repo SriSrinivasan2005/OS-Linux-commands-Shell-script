@@ -97,12 +97,6 @@ cut -d "|" -f 1 file22
 ## OUTPUT
 ![output](./output1_7.png)
 
-
-cut -d "|" -f 2 file22
-## OUTPUT
-![output1_8](https://github.com/user-attachments/assets/a4b552e2-0d0d-480d-a1e1-6fbd7f49013d)
-
-
 cat < newfile 
 ```
 Hello world
